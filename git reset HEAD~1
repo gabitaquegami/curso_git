@@ -1,0 +1,43 @@
+[33mcommit 76fdfcf6a699d0261d69c3488cdf40e9ac511afc[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 21:10:15 2019 -0200
+
+    Revert "Revert "Revert "Revert "Criada porta""""
+    
+    This reverts commit 5f2a6e0f4d15c350335bbb24dcee2e72d4ce1296.
+
+[33mcommit 5f2a6e0f4d15c350335bbb24dcee2e72d4ce1296[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 21:10:00 2019 -0200
+
+    Revert "Revert "Revert "Criada porta"""
+    
+    This reverts commit 4edd0c30ef6daf3c6ab3d8c763fe673cf6d4f452.
+
+[33mcommit 4edd0c30ef6daf3c6ab3d8c763fe673cf6d4f452[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 21:09:14 2019 -0200
+
+    Revert "Revert "Criada porta""
+    
+    This reverts commit b596a372a94c2286f16ef86c6d762f698cce68ed.
+
+[33mcommit b596a372a94c2286f16ef86c6d762f698cce68ed[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 21:08:34 2019 -0200
+
+    Revert "Criada porta"
+    
+    This reverts commit d75c3c4b653ff872f1963a39e2dfdfba244ed107.
+
+[33mcommit d75c3c4b653ff872f1963a39e2dfdfba244ed107[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 20:36:16 2019 -0200
+
+    Criada porta
+
+[33mcommit 294c2e171b8f78c9899f9c9e9876dc2998f58ca6[m
+Author: gabi <g.taquegami@gmail.com>
+Date:   Wed Nov 20 20:24:27 2019 -0200
+
+    primeiro commit
